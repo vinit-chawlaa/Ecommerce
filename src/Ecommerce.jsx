@@ -62,7 +62,7 @@ const Ecommerce = () => {
                           ? 
                           pitems
                           :
-                          <div className='text-center text-gray-500'>No Product Found</div>
+                          <div className='text-center'>No Products Found</div>
                           }
                       </div>
                     </div>
